@@ -336,8 +336,8 @@ return 0;
 }*/
 
 //Exerc24
-//M = área em metros quadrados
-//A = área em acres
+//M = Ã¡rea em metros quadrados
+//A = Ã¡rea em acres
 /*int main ()
 {
 float A, M;
@@ -368,8 +368,8 @@ return 0;
 }*/
 
 //Exerc26
-//M = área em metros quadrados
-//H  = área em hectares
+//M = Ã¡rea em metros quadrados
+//H  = Ã¡rea em hectares
 /*int main ()
 {
 float M, H;
@@ -422,7 +422,7 @@ return 0;
 }*/
 
 //Exerc29
-//Media aritmética de 4 notas
+//Media aritmÃ©tica de 4 notas
 /*int main ()
 {
 float n1, n2, n3, n4, media;
@@ -447,7 +447,7 @@ return 0;
 }*/
 
 //Exerc30
-//Cotação dolar
+//CotaÃ§Ã£o dolar
 /*
 int main(){
 
